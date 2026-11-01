@@ -1,4 +1,8 @@
 def greet():
-    print("Hello, GitHub!")
+    print("Hello World!")
+
+def welcome():
+    print("Welcome to My Project!")
 
 greet()
+welcome()
